@@ -8,6 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>jexpresso-base-auth</name>
+	<description>A library providing basic functionality for authentication.</description>
 	<url>https://github.com/Yourinspiration/jexpresso-base-auth</url>
 
 	<properties>
